@@ -14,22 +14,26 @@ Document Embeddings: Converts textual F1 data into dense vector representations 
 Vector Search: Utilizes Astra DB (powered by DataStax) for high-speed semantic retrieval.
 Context Injection: Retrieved documents are dynamically structured into a system prompt before being processed by the GPT model.
 LLM Query Optimization: Ensures reduced hallucinations and improved response accuracy by combining retrieval-based context with generative AI.
+
 2️⃣ Backend & AI Integration
 
 OpenAI GPT-4 API: Handles user queries and generates human-like responses.
 Streaming AI Responses: Implements OpenAIStream and streamText from Vercel AI SDK to enable real-time streaming of responses, improving interactivity.
 Web Scraping & API Integration: Extracts the latest F1 news and statistics from multiple sources to keep the bot up-to-date.
+
 3️⃣ Full-Stack Architecture
 
 Backend: Built using Next.js App Router, with API routes managing data processing and AI interactions.
 Database: Astra DB with vector indexing for optimized retrieval of relevant documents.
 Frontend UI: Designed with React & TypeScript to provide a seamless chat experience.
 Serverless Deployment: Hosted on Vercel, ensuring high availability and low-latency performance.
+
 4️⃣ Performance Optimization & Scalability
 
 Efficient Query Processing: Implements cosine similarity search on vector embeddings for fast context retrieval.
 Streaming Responses: Uses server-sent events (SSE) to minimize latency and enhance real-time interaction.
 Optimized API Calls: Caches embeddings and uses incremental updates to improve performance.
+
 🔧 Tech Stack
 
 Frontend: React, TypeScript, Next.js (App Router)
