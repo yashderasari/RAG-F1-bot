@@ -1,0 +1,38 @@
+{
+  "name": "f1-bot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "seed": "ts-node ./scripts/loadDb.ts",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^1.1.15",
+    "@datastax/astra-db-ts": "^1.5.0",
+    "@langchain/community": "^0.3.33",
+    "@langchain/core": "^0.3.42",
+    "ai": "^4.1.47",
+    "dotenv": "^16.4.7",
+    "groq-sdk": "^0.15.0",
+    "langchain": "^0.3.19",
+    "next": "15.2.0",
+    "openai": "^4.86.1",
+    "openai-streams": "^6.2.0",
+    "puppeteer": "^24.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.0",
+    "typescript": "^5"
+  }
+}
