@@ -1,4 +1,4 @@
-🚀 RAG-F1 Bot: AI-Powered Formula 1 Chatbot
+**🚀 RAG-F1 Bot: AI-Powered Formula 1 Chatbot**
 
 A Retrieval-Augmented Generation (RAG) chatbot that provides real-time Formula 1 insights using OpenAI's GPT models and vector search.
 
