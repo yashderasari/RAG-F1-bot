@@ -1,0 +1,52 @@
+[
+  {
+    "query": "Who was the first Formula One World Champion?",
+    "expected_keywords": ["Farina", "1950", "champion"],
+    "notes": "Wikipedia F1 article covers the 1950 inaugural season; Nino Farina won."
+  },
+  {
+    "query": "How does the DRS drag reduction system work in Formula One?",
+    "expected_keywords": ["DRS", "drag", "overtaking"],
+    "notes": "DRS introduced 2011 — should be in Wikipedia regulations section."
+  },
+  {
+    "query": "Tell me about Ayrton Senna's Formula One career",
+    "expected_keywords": ["Senna", "McLaren", "champion"],
+    "notes": "Senna bio covered in Wikipedia F1 notable drivers section."
+  },
+  {
+    "query": "How many championships did Michael Schumacher win in Formula One?",
+    "expected_keywords": ["Schumacher", "seven", "Ferrari"],
+    "notes": "Schumacher's 7 WDCs prominently featured in Wikipedia."
+  },
+  {
+    "query": "What is the points scoring system in Formula One?",
+    "expected_keywords": ["points", "25", "winner"],
+    "notes": "Current 25-point system documented in Wikipedia."
+  },
+  {
+    "query": "Tell me about Ferrari's history in Formula One",
+    "expected_keywords": ["Ferrari", "Scuderia", "championship"],
+    "notes": "Ferrari is the oldest and most successful constructor — Wikipedia."
+  },
+  {
+    "query": "What is the history and significance of the Monaco Grand Prix?",
+    "expected_keywords": ["Monaco", "street", "circuit"],
+    "notes": "Monaco circuit description in Wikipedia."
+  },
+  {
+    "query": "Who is Max Verstappen and what has he achieved in F1?",
+    "expected_keywords": ["Verstappen", "Red Bull", "champion"],
+    "notes": "Verstappen multiple WDCs covered in F1.com latest / SkySports news."
+  },
+  {
+    "query": "How does the pit stop strategy affect Formula One race outcomes?",
+    "expected_keywords": ["pit", "tyre", "strategy"],
+    "notes": "Pit stop and tyre strategy described in Wikipedia race procedures."
+  },
+  {
+    "query": "Tell me about the Silverstone circuit and the British Grand Prix",
+    "expected_keywords": ["Silverstone", "British", "circuit"],
+    "notes": "Silverstone is one of F1's oldest circuits — Wikipedia circuits section."
+  }
+]

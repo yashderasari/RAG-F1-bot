@@ -1,0 +1,173 @@
+{
+  "mode": "rerank",
+  "hitRate": 10,
+  "total": 10,
+  "meanMrr": 0.95,
+  "results": [
+    {
+      "query": "Who was the first Formula One World Champion?",
+      "passed": true,
+      "mrr": 1,
+      "matched_keywords": [
+        "Farina",
+        "1950",
+        "champion"
+      ],
+      "top5_texts": [
+        "The first world championship race, the 1950 British Grand Prix, took place at Silverstone Circuit in the United Kingdom on 13&nbsp;May 1950.[4] Giuseppe Farina, competing for Alfa Romeo, won the first Drivers' World Championship, narrowly defeating his teammate Juan Manuel Fangio. Fangio won the championship in 1951, 1954, 1955, 1956, and 1957.[5] This set the record for the most World Championships won by a single driver, a record that stood for 46 years until Michael Schumacher won his sixth championship",
+        "American open-wheel car racing has also contributed to the Formula One grid. CART champions Mario Andretti and Jacques Villeneuve became F1 World Champions, while Juan Pablo Montoya won seven races in F1.[198]",
+        "vteFormula One World Drivers' Champions&nbsp;&nbsp;&nbsp;\n\n1950&nbsp; G. Farina\n1951&nbsp; J. M. Fangio\n1952&nbsp; A. Ascari\n1953&nbsp; A. Ascari\n1954&nbsp; J. M. Fangio\n1955&nbsp; J. M. Fangio\n1956&nbsp; J. M. Fangio\n1957&nbsp; J. M. Fangio\n1958&nbsp; M. Hawthorn\n1959&nbsp; J. Brabham\n\n\n\n\n1960&nbsp; J. Brabham\n1961&nbsp; P. Hill\n1962&nbsp; G. Hill\n1963&nbsp; J. Clark\n1964&nbsp; J. Surtees\n1965&nbsp; J. Clark\n1966&nbsp; J. Brabham\n1967&nbsp; D. Hulme\n1968&nbsp; G. Hill\n1969&nbsp; J. Stewart",
+        "The first major technological development in the series was Bugatti's introduction of mid-engined cars. Jack Brabham, the world champion in 1959, 1960, and 1966, soon proved the mid-engine's superiority over all other engine positions. By 1961, all teams had switched to mid-engined cars. The Ferguson P99, a four-wheel drive design, was the last front-engined Formula One car to enter a world championship race. It entered the 1961 British Grand Prix, the only front-engined car to compete that year.[14]",
+        "in addition to recently retired world championship cars.[12] Similarly, the British Formula One Championship utilised second-hand cars, from manufacturers such as Lotus and Fittipaldi Automotive, fitted with DFV from 1978 to 1980.[13] The increasing cost of competition, however, made such competitions less common in the 1970s. 1983 saw the last non-championship Formula One race; the 1983 Race of Champions at Brands Hatch, won by reigning World Champion Keke Rosberg in a Williams-Cosworth in a close fight"
+      ]
+    },
+    {
+      "query": "How does the DRS drag reduction system work in Formula One?",
+      "passed": true,
+      "mrr": 1,
+      "matched_keywords": [
+        "DRS",
+        "drag",
+        "overtaking"
+      ],
+      "top5_texts": [
+        "In motor racing, the drag reduction system (DRS) is a form of driver-adjustable bodywork aimed at reducing aerodynamic drag in order to increase top speed and promote overtaking. It is an adjustable rear wing of the car, which moves in response to driver commands.[1] DRS often comes with conditions, such as the requirement in Formula 1 that the pursuing car must be within one second (when both cars cross the detection point) for DRS to be activated.",
+        "In Formula One, the DRS opened an adjustable flap on the rear wing of the car, in order to reduce drag, thus giving a pursuing car an overtaking advantage over the car in front.  The FIA estimate the speed increase to be 10–12&nbsp;km/h (6.2–7.5&nbsp;mph) by the end of the activation zone,[8] while others, such as technical staff at racecar-engineering.com,[9] cite a much lower figure of 4–5&nbsp;km/h (2.5–3.1&nbsp;mph). When the DRS is deactivated or closed, it increases downforce, giving better",
+        "The horizontal elements of the rear wing consist of the main plane and the flap. The DRS allows the flap to lift a maximum of 85 millimetres (3.3&nbsp;in) from the fixed main plane. This reduces drag from the wing and results in less downforce. In a straight line, where downforce isn't needed, it allows for faster acceleration and potential top speed, unless limited by the mechanical limits of the engine and transmission. Sam Michael, former sporting director of the McLaren team, believes that DRS in",
+        "DRS was used in Formula One from 2011 to 2025, with Jenson Button and Andrea Kimi Antonelli being the first and the last to use it, respectively. Additionally, Lance Stroll performed the last successful DRS overtake. The use of DRS was an exception to the rule banning any moving parts whose primary purpose is to affect the aerodynamics of the car. The system is also used in the Formula Renault 3.5 from 2012 until it folded in 2017,[2] Deutsche Tourenwagen Masters since 2013,[3] GP2 Series later FIA Formula",
+        "The system may not be enabled if racing conditions are deemed dangerous by the race director, such as rain, as was the case at the 2011 Canadian Grand Prix.\nA dashboard light notifies the driver when the system is enabled (the driver can also see the system deploy in their wing mirrors). The system is deactivated when the driver releases the button or uses the brakes."
+      ]
+    },
+    {
+      "query": "Tell me about Ayrton Senna's Formula One career",
+      "passed": true,
+      "mrr": 1,
+      "matched_keywords": [
+        "Senna",
+        "champion"
+      ],
+      "top5_texts": [
+        "1990&nbsp; A. Senna\n1991&nbsp; A. Senna\n1992&nbsp; N. Mansell\n1993&nbsp; A. Prost\n1994&nbsp; M. Schumacher\n1995&nbsp; M. Schumacher\n1996&nbsp; D. Hill\n1997&nbsp; J. Villeneuve\n1998&nbsp; M. Häkkinen\n1999&nbsp; M. Häkkinen\n\n\n\n\n2000&nbsp; M. Schumacher\n2001&nbsp; M. Schumacher\n2002&nbsp; M. Schumacher\n2003&nbsp; M. Schumacher\n2004&nbsp; M. Schumacher\n2005&nbsp; F. Alonso\n2006&nbsp; F. Alonso\n2007&nbsp; K. Räikkönen\n2008&nbsp; L. Hamilton\n2009&nbsp; J. Button",
+        "Drivers are not required to have competed at all levels to enter Formula One. British F3 has supplied many F1 drivers, with champions, including Nigel Mansell,[193] Ayrton Senna,[194] and Mika Häkkinen[195] having moved straight from that series to Formula One. Max Verstappen made his F1 debut following a single season in European F3.[196] More rarely, a driver may be picked from an even lower level, as was the case with 2007 World Champion Kimi Räikkönen, who went straight from Formula Renault to F1.[197]",
+        "^ \"Ayrton Senna: Remembering a racing legend 30 years on\". Silverstone. Retrieved 3 November 2025.\n\n^ Tremayne, Sam. \"A racer through and through – Roland Ratzenberger remembered | Formula 1®\". formula1.com. Retrieved 3 November 2025.\n\n^ \"Mosley's Equations\". formula1.com. 20 May 2019. Archived from the original on 15 September 2019. Retrieved 2 September 2019.",
+        "^ \"F1 bans traction control for 2008\". BBC Sport. 30 March 2007. Archived from the original on 3 January 2020. Retrieved 3 January 2020.\n\n^ Slater, Luke (22 May 2025). \"'I had a front-row seat for the explosive Senna-Prost rivalry'\". The Telegraph. Retrieved 3 November 2025.\n\n^ \"Ayrton Senna: Remembering a racing legend 30 years on\". Silverstone. Retrieved 3 November 2025.",
+        "1970&nbsp; J. Rindt\n1971&nbsp; J. Stewart\n1972&nbsp; E. Fittipaldi\n1973&nbsp; J. Stewart\n1974&nbsp; E. Fittipaldi\n1975&nbsp; N. Lauda\n1976&nbsp; J. Hunt\n1977&nbsp; N. Lauda\n1978&nbsp; M. Andretti\n1979&nbsp; J. Scheckter\n\n\n\n\n1980&nbsp; A. Jones\n1981&nbsp; N. Piquet\n1982&nbsp; K. Rosberg\n1983&nbsp; N. Piquet\n1984&nbsp; N. Lauda\n1985&nbsp; A. Prost\n1986&nbsp; A. Prost\n1987&nbsp; N. Piquet\n1988&nbsp; A. Senna\n1989&nbsp; A. Prost"
+      ]
+    },
+    {
+      "query": "How many championships did Michael Schumacher win in Formula One?",
+      "passed": true,
+      "mrr": 1,
+      "matched_keywords": [
+        "Schumacher",
+        "seven",
+        "Ferrari"
+      ],
+      "top5_texts": [
+        "Michael Schumacher and Ferrari won five consecutive Drivers' Championships and six consecutive Constructors' Championships. Schumacher set many new records, including those for Grand Prix wins, wins in a season, and most Drivers' Championships.[36] Schumacher's championship streak ended on 25&nbsp;September 2005, when Renault driver Fernando Alonso became Formula One's youngest champion at that time (until Lewis Hamilton in 2008 and followed by Sebastian Vettel in 2010).[37] In 2006, Renault and Alonso won",
+        "single driver, a record that stood for 46 years until Michael Schumacher won his sixth championship in 2003.[5]",
+        "As of 2025[update], a total of 35 separate drivers have won the World Drivers' Championship, with Michael Schumacher and Lewis Hamilton holding the record for most championships, each with seven.[172] Jochen Rindt is the only posthumous World Champion, after his points total was not surpassed despite his fatal accident at the 1970 Italian Grand Prix, with 4 races remaining in the season.[173] Drivers from the United Kingdom have been the most successful in the sport, with 21 championships among 11 drivers",
+        "Drivers'\n Michael Schumacher\n Lewis Hamilton\n(7 titles each)\nConstructors'\n Ferrari (16)\nOfficial websiteformula1.com Current season",
+        "Manufacturers' return[edit]\nMichael Schumacher (pictured in 2001) won five consecutive titles with Ferrari."
+      ]
+    },
+    {
+      "query": "What is the points scoring system in Formula One?",
+      "passed": true,
+      "mrr": 1,
+      "matched_keywords": [
+        "points",
+        "25",
+        "winner"
+      ],
+      "top5_texts": [
+        "Chequered flag\n\nEnd of the practice, qualifying, or racing session.\n\nPoints system[edit]\nMain article: List of Formula One World Championship points scoring systems\n\n\n\n1st\n\n2nd\n\n3rd\n\n4th\n\n5th\n\n6th\n\n7th\n\n8th\n\n9th\n\n10th\n\n\n25\n\n18\n\n15\n\n12\n\n10\n\n8\n\n6\n\n4\n\n2\n\n1",
+        "A points scoring system is used at Grands Prix to determine two annual World Championships: one for the drivers, and one for the constructors—now synonymous with teams. Each driver must hold a valid Super Licence, the highest class of racing licence the FIA issues, and the races must be held on Grade One tracks, the highest grade rating the FIA issues for circuits.",
+        "Various systems for awarding championship points have been used since 1950. The current system, in place since 2010,[d] awards the top ten cars points in the Drivers' and Constructors' Championships, with the winner receiving 25 points. Points won at each race are added up, and the driver and constructor with the most points at the end of the season are crowned World Champions.[137]",
+        "From some time between the 1977 and 1980 seasons to the end of the 2021 season, if less than 75% of the race laps were completed by the winner, then only half of the points listed in the table were awarded to drivers and constructors. The half-points rule was replaced by a distance-dependent, gradual-scale system for 2022.[139]",
+        "^ \"2008 FIA Formula One Sporting Regulations\" (PDF). Archived from the original (PDF) on 29 September 2011. Retrieved 16 March 2018.\n\n^ \"Formula 1 adopts new points system for 2010 season\". BBC Sport. 2 February 2010. Archived from the original on 29 November 2017. Retrieved 10 April 2021.\n\n^ \"FIA publishes new Formula One regulations to cover the 2010 season\". The Guardian. 12 February 2010. Retrieved 23 August 2025.\n\n^ Wise, Michael. \"2010 rule changes\". Sky Sports. Retrieved 23 August 2025."
+      ]
+    },
+    {
+      "query": "Tell me about Ferrari's history in Formula One",
+      "passed": true,
+      "mrr": 0.5,
+      "matched_keywords": [
+        "Ferrari",
+        "championship"
+      ],
+      "top5_texts": [
+        "History[edit]\nMain article: History of Formula One",
+        "Manufacturers' return[edit]\nMichael Schumacher (pictured in 2001) won five consecutive titles with Ferrari.",
+        "Constructors[edit]\nSee also: List of Formula One constructors, List of Formula One engine constructors, and List of Formula One World Constructors' Champions\nFerrari (pictured with Lewis Hamilton) have competed in every season of the championship.",
+        "Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars run by Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in 1950 and is often considered to be the pinnacle of motorsport. The word formula in the name refers to the set of rules all participant cars must follow. A Formula One season",
+        "Formula One originated from the World Manufacturers' Championship (1925–1930) and European Drivers' Championship (1931–1939). The formula is a set of rules that all participants' cars must follow. Before World War II, several Grand Prix racing organisations made suggestions for a new championship to replace the European Championship, but due to the suspension of racing during the conflict, a new International Formula for cars did not become formalised until after the war. Formula One was a formula agreed"
+      ]
+    },
+    {
+      "query": "What is the history and significance of the Monaco Grand Prix?",
+      "passed": true,
+      "mrr": 1,
+      "matched_keywords": [
+        "Monaco",
+        "circuit"
+      ],
+      "top5_texts": [
+        "The British and Italian Grands Prix are the only events to have been held every Formula One season.[205] The Monaco Grand Prix was first held in 1929 and has run continuously since 1955, except in 2020,[206] and is widely considered to be one of the most important and prestigious automobile races in the world.[207]",
+        "Drivers[edit]\nMaria Teresa de Filippis was the first woman to compete in the series at the 1958 Monaco Grand Prix. She drove in a total of five Grands Prix, racing under the Italian flag, and has been hailed as a pioneer of women in motorsport.[323]",
+        "^ This is not the same entity as the 1954–1994 or 2010–2011 iterations.\n\n^ A mandatory two-pit stop rule was enforced for the 2025 Monaco Grand Prix.[121]\n\n^ This number varies around each track. It is defined as the minimum amount of laps required for the total race distance to exceed 305 km, with the exception of the Monaco Grand Prix, for which it is set at 260km.[122]\n\n^ From 2019 to 2024, an additional point was awarded to the car which set the fastest lap, if that car finished inside the top 10.",
+        "^ De facto status of the territories is shown.\n\n^ The event will not be held in 2027, 2029 and 2031 under the rotational contract.\n\n^ The event will not be held in 2028 and 2030 under the rotational contract.\n\n^ The event will move to a purpose built circuit in Qiddiya City in 2028.\n\n^ The Monaco Grand Prix, run over 260&nbsp;km (160&nbsp;mi), is the only exception to this rule.[241]",
+        "^ \"French Grand Prix: Adding to the history of F1's oldest race\". pirelli.com (in Italian). Retrieved 23 August 2025.\n\n^ \"Since 2004: How Bahrain's International Circuit put Middle East on global F1 map with its first race\". The Times of India. 26 July 2025. Retrieved 23 August 2025.\n\n^ \"Which country has hosted the most F1 races?\". motorsport.com. Retrieved 23 August 2025.\n\n^ \"Monaco announce cancellation of 2020 F1 race due to coronavirus | Formula 1®\". formula1.com. Retrieved 23 August 2025."
+      ]
+    },
+    {
+      "query": "Who is Max Verstappen and what has he achieved in F1?",
+      "passed": true,
+      "mrr": 1,
+      "matched_keywords": [
+        "Verstappen",
+        "champion"
+      ],
+      "top5_texts": [
+        "Drivers are not required to have competed at all levels to enter Formula One. British F3 has supplied many F1 drivers, with champions, including Nigel Mansell,[193] Ayrton Senna,[194] and Mika Häkkinen[195] having moved straight from that series to Formula One. Max Verstappen made his F1 debut following a single season in European F3.[196] More rarely, a driver may be picked from an even lower level, as was the case with 2007 World Champion Kimi Räikkönen, who went straight from Formula Renault to F1.[197]",
+        "^ Seymour, Mike (7 December 2023). \"In Numbers: How Verstappen compares to other F1 greats at this stage of his career\". formula1.com. Archived from the original on 21 May 2024. Retrieved 13 September 2024. Juan Manuel Fangio—Stats after 51 Grands Prix: 5 world titles, 24 wins (47%), 35 podiums (68.6%), 29 pole positions (56.8%)\n\n^ Bishop, Matt (11 March 2025). \"When non-championship races gave F1's B-list a chance to shine\". Motor Sport Magazine. Retrieved 23 August 2025.",
+        "^ \"Nigel Mansell | Formula 1®\". formula1.com. Retrieved 19 August 2025.\n\n^ \"Ayrton Senna | Death, Crash, Biography, Titles, Movie, &amp; Facts | Britannica\". Britannica. 9 August 2025. Retrieved 19 August 2025.\n\n^ \"Skipping Class in School\". autosport.com. Retrieved 19 August 2025.\n\n^ Benson, Andrew (9 December 2021). \"Max Verstappen: Formula 1's 'bull fighter' &amp; the family that shaped him\". BBC Sport. Retrieved 19 August 2025.",
+        "^ \"FIA grants Formula One entry to Haas\". formula1.com. Retrieved 23 August 2025.\n\n^ Ostlere, Lawrence (15 May 2016). \"F1: Max Verstappen wins Spanish GP after Lewis Hamilton and Nico Rosberg crash – as it happened\". The Guardian. ISSN&nbsp;0261-3077. Archived from the original on 31 July 2017. Retrieved 28 April 2023.",
+        "16 out of the 19 races that season.[66] The team continued this form in the next two seasons, again winning 16 races in 2015[67] before taking a record 19 wins in 2016,[68] with Hamilton claiming the title in the former year[69] and Rosberg winning it in the latter, by five points.[70] The 2016 season also saw a new team, Haas, join the grid,[71] while Max Verstappen became the youngest-ever race winner at age 18 in Spain.[72]"
+      ]
+    },
+    {
+      "query": "How does the pit stop strategy affect Formula One race outcomes?",
+      "passed": true,
+      "mrr": 1,
+      "matched_keywords": [
+        "pit",
+        "tyre"
+      ],
+      "top5_texts": [
+        "Throughout the race, drivers may make pit stops to change tyres and repair damage. Three dry tyre compounds, with different durability and adhesion characteristics, are available to drivers. Under wet conditions, drivers may switch to one of two specialised wet-weather tyres with additional grooves. Over the course of a race, drivers must make at least one pit stop and use two different available tyre compounds.[120][b]",
+        "car remains on the track until the danger is cleared. After the safety car comes off the track, the race restarts with a rolling start, with the leading car taking over its role until they reach the timing line. Pit stops under a safety car are permitted, and in many cases can offer a great advantage to teams who can pit and change tyres before the end of the safety car period.[126]",
+        "A typical circuit features a stretch of straight road on which the starting grid is situated, with the pit lane normally located right next to it.[243] The pit lane is home to each team's garage, where cars are stored and serviced before a race. During a pit stop, drivers enter the pit lane to change their tyres, receive repairs or aerodynamic adjustments from their pit crew, or retire from the race (if the car is in a condition to do so). Prior to the 2010 season, pit stops also facilitated mid-race",
+        "the car is in a condition to do so). Prior to the 2010 season, pit stops also facilitated mid-race refueling of the cars.[244] Special pit roads and track markings help to make sure drivers pit and rejoin the track safely.[245]",
+        "^ This is not the same entity as the 1954–1994 or 2010–2011 iterations.\n\n^ A mandatory two-pit stop rule was enforced for the 2025 Monaco Grand Prix.[121]\n\n^ This number varies around each track. It is defined as the minimum amount of laps required for the total race distance to exceed 305 km, with the exception of the Monaco Grand Prix, for which it is set at 260km.[122]\n\n^ From 2019 to 2024, an additional point was awarded to the car which set the fastest lap, if that car finished inside the top 10."
+      ]
+    },
+    {
+      "query": "Tell me about the Silverstone circuit and the British Grand Prix",
+      "passed": true,
+      "mrr": 1,
+      "matched_keywords": [
+        "Silverstone",
+        "British",
+        "circuit"
+      ],
+      "top5_texts": [
+        "The first world championship race, the 1950 British Grand Prix, took place at Silverstone Circuit in the United Kingdom on 13&nbsp;May 1950.[4] Giuseppe Farina, competing for Alfa Romeo, won the first Drivers' World Championship, narrowly defeating his teammate Juan Manuel Fangio. Fangio won the championship in 1951, 1954, 1955, 1956, and 1957.[5] This set the record for the most World Championships won by a single driver, a record that stood for 46 years until Michael Schumacher won his sixth championship",
+        "^ \"Silverstone confirmed as host of the Formula 1 British Grand Prix until 2034\". Silverstone Circuit. 8 February 2024. Archived from the original on 9 February 2024. Retrieved 8 February 2024.\n\n^ Rainbird, Daniel. \"Canadian Grand Prix signs Formula One contract extension through 2035\". CBC Canada. Retrieved 19 August 2025.\n\n^ \"Formula 1 to race in Shanghai until 2030 with new five-year extension\". Formula 1. 6 December 2024. Archived from the original on 7 December 2024. Retrieved 7 December 2024.",
+        "Azerbaijan Grand Prix\n\n Baku City Circuit, Baku\n\n2030\n\n[215]\n\n\nBarcelona-Catalunya Grand Prix\n\n Circuit de Barcelona-Catalunya, Montmeló\n\n2032[f]\n\n[216]\n\n\nBelgian Grand Prix\n\n Circuit de Spa-Francorchamps, Stavelot\n\n2031[g]\n\n[217]\n\n\nBritish Grand Prix\n\n Silverstone Circuit, Silverstone\n\n2034\n\n[218]\n\n\nCanadian Grand Prix\n\n Circuit Gilles Villeneuve, Montreal\n\n2035\n\n[219]\n\n\nChinese Grand Prix\n\n Shanghai International Circuit, Shanghai\n\n2030\n\n[220]\n\n\nDutch Grand Prix\n\n Circuit Zandvoort, Zandvoort\n\n2026",
+        "^ \"L'Équipe&nbsp;: le stade, l'air, la route\". Gallica. 2 March 1946. Retrieved 13 September 2024.\n\n^ Cooper, Adam (13 May 2020). \"Remembering F1's first world championship race 70 years on\". motorsport.com. Archived from the original on 6 June 2020. Retrieved 11 September 2024.\n\n^ \"Facts you may not know about Silverstone Circuit and its place on the F1 calendar\". Silverstone Museum. 27 May 2021. Archived from the original on 18 May 2023. Retrieved 18 May 2023.",
+        "vteFormula One circuits (1950–present)Current (2026)\nMelbourne\nShanghai\nSuzuka\nMiami\nMontreal\nMonte Carlo\nCatalunya\nSpielberg\nSilverstone\nSpa-Francorchamps\nHungaroring\nZandvoort\nMonza\nMadring\nBaku\nSingapore\nAustin\nMexico City\nInterlagos\nLas Vegas\nLusail\nYas Marina\nReturning (2027)\nAlgarve\nIstanbul\nJeddah\nSakhir\nFormer\nAdelaide\nAin-Diab\nAintree\nAnderstorp\nAVUS\nBoavista\nBrands Hatch\nBremgarten\nBuddh\nBuenos Aires\nCaesars Palace\nClermont-Ferrand\nDallas\nDetroit\nDijon\nDonington Park\nEast London\nEstoril\nFuji"
+      ]
+    }
+  ]
+}

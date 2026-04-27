@@ -14,6 +14,7 @@ const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
 const f1Data = [
     'https://en.wikipedia.org/wiki/Formula_One',
+    'https://en.wikipedia.org/wiki/Drag_reduction_system',
     'https://www.formula1.com/en/latest/all',
     'https://www.skysports.com/f1/news'
 ]
@@ -45,6 +46,7 @@ const loadSampleData = async () => {
     for await (const url of f1Data) {
         const content = await scrapePage(url)
         const chunks = await spiltter.splitText(content)
+        const seeded_at = new Date().toISOString()
         for await (const chunk of chunks) {
             const embedding = await openai.embeddings.create({
                 model: "text-embedding-3-small",
@@ -55,7 +57,9 @@ const loadSampleData = async () => {
 
             const res = await collection.insertOne({
                 $vector: vector,
-                text: chunk
+                text: chunk,
+                source_url: url,
+                seeded_at
             })
             console.log(res)
         }

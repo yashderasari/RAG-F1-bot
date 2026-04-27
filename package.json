@@ -7,9 +7,12 @@
     "build": "next build",
     "start": "next start",
     "seed": "ts-node ./scripts/loadDb.ts",
+    "seed:url": "ts-node ./scripts/seedUrl.ts",
     "lint": "next lint",
     "mcp:openf1": "ts-node mcp/servers/openf1/index.ts",
-    "mcp:vector": "ts-node mcp/servers/vector-store/index.ts"
+    "mcp:vector": "ts-node mcp/servers/vector-store/index.ts",
+    "eval:baseline": "RERANK_ENABLED=false ts-node scripts/evalRetrieval.ts",
+    "eval:rerank": "RERANK_ENABLED=true ts-node scripts/evalRetrieval.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.1.15",

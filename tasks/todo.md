@@ -40,3 +40,13 @@
 - [x] "Compare Verstappen 2024 to Schumacher 2004" → get_standings + get_race_results for 2024, model knowledge for 2004 ✓
 - [x] "Was it raining at Spa 2024 qualifying?" → get_session_info → get_weather (chained) ✓
 - [x] DB seeded: 1000+ records in Astra DB ✓
+
+## Phase 5: Cohere Reranker + Eval Harness
+- [x] `tools.ts` — overfetch 25, cohereRerank(), fallback to bi-encoder on failure
+- [x] `scripts/eval/golden.json` — 15 queries with expected_keywords
+- [x] `scripts/evalRetrieval.ts` — hit-rate @ 5 + MRR runner, JSON results dump
+- [x] `package.json` — eval:baseline, eval:rerank scripts
+- [ ] Add COHERE_API_KEY + RERANK_ENABLED to f1bot/.env (manual)
+- [ ] `npm run eval:baseline` → record baseline hit-rate
+- [ ] `npm run eval:rerank` → measure lift (expect ≥10pp improvement)
+- [ ] Failure-mode test: COHERE_API_KEY=invalid → confirm graceful fallback
