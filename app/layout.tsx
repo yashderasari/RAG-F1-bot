@@ -2,7 +2,7 @@ import "./global.css"
 
 export const metadata = {
     title: "F1BOT",
-    description: "You F1 Assistant for all your information!"
+    description: "Your F1 Assistant for all your information!"
 }
 
 const RootLayout = ({children}) =>{
